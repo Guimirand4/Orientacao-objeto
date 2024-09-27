@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Abstrato.abstrata&apos; to &apos;Abstrata&apos;&#x0D;&#x0A;- Original project: &apos;poo&apos;&#x0D;&#x0A;- Original element: &apos;Abstrato.abstrata&apos;&#x0D;&#x0A;- Renamed element: &apos;Abstrato.Abstrata&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;abstrata&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Abstrato{abstrata.java[abstrata" matchStrategy="1" name="Abstrata" qualified="false" references="true" similarDeclarations="false" stamp="1726832540176" textual="false" version="1.0"/>
+</session>

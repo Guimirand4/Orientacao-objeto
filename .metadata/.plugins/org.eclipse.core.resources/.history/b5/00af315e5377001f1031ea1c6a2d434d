@@ -1,0 +1,13 @@
+package Abstrato;
+
+public class ContaCorrente extends ContaBancaria{
+	double limite;
+
+	@Override
+	public void sacar(double valor) {
+		if(this.getSaldo() + limite >= valor) {
+			this.setSaldo(this.getSaldo() - valor);
+		}
+		
+	}
+}

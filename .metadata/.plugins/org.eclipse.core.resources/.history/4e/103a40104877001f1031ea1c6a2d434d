@@ -1,0 +1,11 @@
+package Abstrato;
+
+public class ContaPoupanca extends ContaBancaria{
+
+	@Override
+	public void sacar(double valor) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
