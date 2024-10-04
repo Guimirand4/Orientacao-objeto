@@ -1,0 +1,12 @@
+package bancointerface;
+
+public class ContaBancaria implements OperacosBancarias{
+	public double saldo;
+
+	@Override
+	public void sacar(double valor) {
+		this.saldo -= valor;
+	}
+	
+	
+}
