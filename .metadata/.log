@@ -10952,3 +10952,6 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.e4.ui.workbench 2 0 2024-10-04 08:23:57.462
 !MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wb.core.PaletteView" id and the "Palette" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.epp.mpc.ui 1 0 2024-10-04 09:02:38.960
+!MESSAGE Performing Marketplace install request from https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3085446

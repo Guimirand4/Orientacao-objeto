@@ -4,10 +4,7 @@ public class ContaBancaria implements OperacoesBancarias, ValidacaoDeSaldo{
 	public double saldo;
 
 	public void sacar(double valor) {
-		if(validar(valor)) {
-			this.saldo -= valor;
-		}
-		
+		this.saldo -= valor;
 	}
 	
 	public void depositar(double valor) {
