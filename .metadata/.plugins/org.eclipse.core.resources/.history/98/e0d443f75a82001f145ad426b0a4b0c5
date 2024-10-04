@@ -38,7 +38,6 @@ public class MeuJFrame extends JFrame implements ActionListener{
 		}
 		});
 		
-		
 
 		
 		getContentPane().setLayout(null);
