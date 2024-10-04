@@ -23,13 +23,6 @@ public class ContaBancaria implements OperacoesBancarias, ValidacaoDeSaldo{
 		// TODO Auto-generated method stub
 		return saldo >= valor;
 	}
-
-	@Override
-	public void transferir(double saldo, OperacoesBancarias destino) {
-		this.sacar(saldo);
-		destino.depositar(saldo);
-		
-	}
 	
 	
 	

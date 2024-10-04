@@ -4,4 +4,6 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="Abstrato.ContaBancaria"/>
     <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="bancointerface.OperacoesBancarias"/>
+    <fullyQualifiedTypeName name="bancointerface.ContaBancaria"/>
 </qualifiedTypeNameHistroy>

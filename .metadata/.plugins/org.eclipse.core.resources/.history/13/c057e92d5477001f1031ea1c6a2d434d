@@ -1,5 +1,0 @@
-package Abstrato;
-
-public enum TiposAnimal {
-	PEIXES, REPTEIS, ANFIBIOS, AVES, MAMIFEROS
-}

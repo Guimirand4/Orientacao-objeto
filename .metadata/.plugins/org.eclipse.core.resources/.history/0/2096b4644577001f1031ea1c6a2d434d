@@ -1,5 +1,0 @@
-package Abstrato;
-
-public abstract class abstrata {
-	public abstract void metodo(int n);
-}
