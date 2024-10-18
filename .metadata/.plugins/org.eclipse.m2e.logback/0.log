@@ -209,3 +209,23 @@
 2024-10-18 10:19:20,740 [Worker-172: Launching FrameMarca] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-10-18 10:19:20,745 [Worker-172: Launching FrameMarca] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2024-10-18 10:19:20,755 [Worker-172: Launching FrameMarca] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-18 10:33:34,279 [Worker-178: Launching FrameMarca] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-18 10:33:34,377 [Worker-178: Launching FrameMarca] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-18 10:33:34,379 [Worker-178: Launching FrameMarca] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-18 10:33:34,444 [Worker-178: Launching FrameMarca] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-18 10:34:12,719 [Worker-114: Launching FrameMarca] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-18 10:34:12,744 [Worker-114: Launching FrameMarca] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-18 10:34:12,745 [Worker-114: Launching FrameMarca] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-18 10:34:12,846 [Worker-114: Launching FrameMarca] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-18 10:34:33,503 [Worker-114: Launching FrameMarca] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-18 10:34:33,522 [Worker-114: Launching FrameMarca] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-18 10:34:33,524 [Worker-114: Launching FrameMarca] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-18 10:34:33,623 [Worker-114: Launching FrameMarca] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-18 10:34:51,868 [Worker-114: Launching FrameMarca] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-18 10:34:51,927 [Worker-114: Launching FrameMarca] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-18 10:34:51,930 [Worker-114: Launching FrameMarca] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-18 10:34:52,043 [Worker-114: Launching FrameMarca] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-18 10:35:16,322 [Worker-178: Launching FrameMarca] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-18 10:35:16,379 [Worker-178: Launching FrameMarca] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-18 10:35:16,382 [Worker-178: Launching FrameMarca] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-18 10:35:16,491 [Worker-178: Launching FrameMarca] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes

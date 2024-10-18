@@ -51,6 +51,7 @@ public class FrameMarca extends JFrame {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 450, 300);
 		contentPane = new JPanel();
+		contentPane.setBackground(new Color(255, 255, 255));
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 
 		setContentPane(contentPane);
@@ -80,7 +81,7 @@ public class FrameMarca extends JFrame {
 		contentPane.add(tfNome);
 		
 		JLabel lbLogo = new JLabel("");
-		lbLogo.setBackground(new Color(0, 128, 64));
+		lbLogo.setBackground(new Color(67, 137, 188));
 		lbLogo.setForeground(new Color(0, 64, 64));
 		lbLogo.setBounds(340, 13, 57, 49);
 		contentPane.add(lbLogo);
@@ -89,7 +90,7 @@ public class FrameMarca extends JFrame {
 		JButton btnExcluir = new JButton("Excluir");
 		btnExcluir.setBackground(new Color(67, 137, 188));
 		btnExcluir.setMnemonic('e');
-		btnExcluir.setBounds(119, 145, 89, 23);
+		btnExcluir.setBounds(157, 174, 89, 23);
 		contentPane.add(btnExcluir);
 		
 		JButton btnSalvar = new JButton("Salvar");
@@ -98,18 +99,21 @@ public class FrameMarca extends JFrame {
 				if(tfNome.getText().trim().isEmpty()) {
 					JOptionPane.showMessageDialog(FrameMarca.this, "Informe o nome", "Aviso", JOptionPane.INFORMATION_MESSAGE);
 					tfNome.requestFocus();
+				}else {
+					marca = new Marca();
+					marca.setNome(tfNome.getText().trim());
 				}
 			}
 		});
 		btnSalvar.setBackground(new Color(67, 137, 188));
 		btnSalvar.setMnemonic('s');
-		btnSalvar.setBounds(20, 145, 89, 23);
+		btnSalvar.setBounds(20, 174, 89, 23);
 		contentPane.add(btnSalvar);
 		
 		JButton btnLimpar = new JButton("Limpar");
 		btnLimpar.setBackground(new Color(67, 137, 188));
 		btnLimpar.setMnemonic('l');
-		btnLimpar.setBounds(217, 145, 89, 23);
+		btnLimpar.setBounds(291, 174, 89, 23);
 		contentPane.add(btnLimpar);
 	}
 }
