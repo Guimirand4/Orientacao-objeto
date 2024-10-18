@@ -1,5 +1,0 @@
-package bancointerface;
-
-public class OperacoesBancarias {
-	public void sacar (double valor);
-}

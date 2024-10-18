@@ -1,7 +1,0 @@
-package bancointerface;
-
-import javax.swing.JFrame;
-
-public class MeuJFrame extends JFrame{
-	JButton seubotao;
-}

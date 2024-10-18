@@ -1,7 +1,0 @@
-package bancointerface;
-
-public class Teste {
-	public static void main(String[] args) {
-		OperacoesBancarias conta = new ContaBancaria();
-	}
-}
